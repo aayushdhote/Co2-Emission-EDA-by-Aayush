@@ -8,6 +8,6 @@ Here what was done
 5. Plotted preferred Graphs to analyze and visualize easily
 6. Project Summary
 Outcome:
-1. Strengthened Python skills for Data Analysis
-2. Practiced real-world data data manipulation and visualization
-3. Learneed how to driven new insights
+-Strengthened Python skills for Data Analysis
+-Practiced real-world data data manipulation and visualization
+-Learneed how to driven new insights
