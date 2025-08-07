@@ -7,7 +7,7 @@ Here what was done
 4 Analyzed total global Emission by year. 
 5 Plotted preferred Graphs to analyze and visualize easily. 
 6 Project Summary
-Outcome:
+Outcome:-
 -Strengthened Python skills for Data Analysis. 
 -Practiced real-world data data manipulation and visualization. 
 -Learneed how to driven new insights. 
